@@ -1,0 +1,9 @@
+canvas{
+    border-color:rgb(66, 66, 251);
+    background-color:red;
+    border-style: solid;
+}
+
+body{
+    background-image: linear-gradient(to top right,red,blue);
+}
